@@ -11,3 +11,6 @@ Hence, this app is created.
 This app is kind of simple now. 
 If you do like it, I would add more features in the future.
 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg">](https://apps.apple.com/my/app/pinpin-chord-notes/id6472979766)
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg">](https://play.google.com/store/apps/details?id=com.chengqing.chordbook&pcampaignid=web_share)
